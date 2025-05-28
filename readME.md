@@ -146,7 +146,3 @@ MIT License
 
 * [Raghu.H](https://github.com/raghuatharva)
 * Email: [raghu.rohan95@gmail.com](mailto:yourname@example.com)
-
-```
-
----
