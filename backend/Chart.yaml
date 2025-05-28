@@ -1,0 +1,7 @@
+apiVersion: v1
+name: backend
+version: "0.2"
+description: backend variables are placed in this chart
+maintainers:
+  - name: raghu_H
+    email: raghu10indian@gmail.com
